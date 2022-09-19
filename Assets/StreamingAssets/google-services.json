@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874342557387",
+    "firebase_url": "https://hanurigo2019.firebaseio.com",
+    "project_id": "hanurigo2019",
+    "storage_bucket": "hanurigo2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874342557387:android:4369883834de0832",
+        "android_client_info": {
+          "package_name": "com.interfo.hanurigo2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874342557387-c9m21d3t9p7ar34f4bj5evsl3gp5e9au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsYD4C3rAJ8KIMMguyD35veT8LOdfI-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874342557387-c9m21d3t9p7ar34f4bj5evsl3gp5e9au.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874342557387-kcnb70og1pms7vc38c3ciat6c6kf6jio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.interfo.hanurigo2019"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

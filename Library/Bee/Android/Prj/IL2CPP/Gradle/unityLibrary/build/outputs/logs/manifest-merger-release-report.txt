@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	android:versionCode
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:146-186
+supports-screens
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-29:17
+	android:extractNativeLibs
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:159-191
+	android:label
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:16-57
+	android:usesCleartextTraffic
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:123-158
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:5-11:16
+	android:screenOrientation
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:102-138
+	android:label
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:139-170
+	android:hardwareAccelerated
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:388-423
+	android:exported
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:424-447
+	android:resizeableActivity
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:353-387
+	android:configChanges
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:171-352
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-58
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-301
+	android:configChanges
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:70-227
+	android:theme
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:228-298
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:15-69
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-303
+	android:configChanges
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:72-229
+	android:theme
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:230-300
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:15-71
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-98
+	android:exported
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:72-95
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:15-71
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-102
+	android:exported
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:76-99
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-75
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:15-75
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:15-79
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:15-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-98
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:62-95
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-61
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-95
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:72-92
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-71
+meta-data#com.facebook.sdk.AdvertiserIDCollectionEnabled
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-101
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:78-98
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-77
+provider#com.facebook.FacebookContentProvider
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-171
+	android:authorities
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:67-144
+	android:exported
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:145-168
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:15-66
+meta-data#unity.arcore-enable
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-74
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:51-71
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-50
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-88
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:65-85
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-64
+meta-data#unity.splash-mode
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-69
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:49-66
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-48
+meta-data#unity.splash-enable
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-74
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:51-71
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-50
+meta-data#unity.launch-fullscreen
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-78
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:55-75
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-54
+meta-data#unity.allow-resizable-window
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-84
+	android:value
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:60-81
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-59
+uses-feature#0x00020000
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-52
+	android:glEsVersion
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:17-49
+uses-permission#android.permission.CAMERA
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-63
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:20-60
+uses-permission#android.permission.INTERNET
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-65
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:20-62
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-84
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:20-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-77
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:20-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:3-79
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:20-76
+uses-feature#android.hardware.location.gps
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:3-89
+	android:required
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:62-86
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:17-61
+uses-feature#android.hardware.location
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:3-85
+	android:required
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:58-82
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:17-57
+uses-feature#android.hardware.touchscreen
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:3-88
+	android:required
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:61-85
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:3-99
+	android:required
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:72-96
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:3-108
+	android:required
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:81-105
+	android:name
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:17-80
+uses-sdk
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml

@@ -1,0 +1,860 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-122:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:facebook-android-wrapper-14.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a126eb42ade91119296a44a144c70c50\facebook-android-wrapper-14.1.0\AndroidManifest.xml:21:1-30:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:common:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:2:1-12:12
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f308724af976ef7dca5ec41cddc870c3\androidx.savedstate.savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\androidx.vectordrawable.vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.facebook.android.facebook-share-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a1cf4316d482bb62ff605f3eb5338401\com.facebook.android.facebook-share-14.1.1\AndroidManifest.xml:21:1-31:12
+MERGED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d65cb7c8efed3ac0d87582c278bb8c7e\androidx.browser.browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\78f6730734116366c52cd0ef97f58aaf\androidx.lifecycle.lifecycle-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.firebase.firebase-analytics-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\16e35b43c133c122b5b652a39c7433b3\com.google.firebase.firebase-analytics-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\23f12b0a995277db82a9d4b860245889\androidx.appcompat.appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\androidx.vectordrawable.vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\3d777e49dc2bc59447e4e10eedea4e48\com.google.android.gms.play-services-measurement-sdk-17.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\dc05f08fc7e05e726885e5a0119b0621\com.google.android.gms.play-services-measurement-base-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\androidx.print.print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.media.media-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\702974eead929cb167f132efe0eabb04\androidx.media.media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:17:1-42:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.facebook.android.facebook-applinks-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ea2ada1c1056467f38a367cdce919fbc\com.facebook.android.facebook-applinks-14.1.1\AndroidManifest.xml:21:1-31:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.cardview.cardview-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\androidx.cardview.cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:unityandroidpermissions:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\99cd4938695955e76a15f63d7f33b533\unityandroidpermissions\AndroidManifest.xml:6:1-15:12
+MERGED from [:com.google.firebase.firebase-app-unity-6.4.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\6b84a11812324d0c169eab2fcda1230a\com.google.firebase.firebase-app-unity-6.4.0\AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\346d5a4de9de9f191c81a5b0fc989c75\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.facebook.android.facebook-bolts-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\669314cf07869054ef636941b9243ee4\com.facebook.android.facebook-bolts-14.1.1\AndroidManifest.xml:21:1-31:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:unitygar:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\58f600055dcf429af6d4b03d816c2e14\unitygar\AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8940c89a08b10379ecdcb072cecdc947\arcore_unity\AndroidManifest.xml:2:1-11:12
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\93a5f22968e725a8334b936452039ac6\androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:17:1-36:12
+MERGED from [:androidx.annotation.annotation-experimental-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\androidx.annotation.annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f209091eb3926c649f0b3346884e478c\androidx.appcompat.appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\androidx.loader.loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-ktx-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b99c743a8ea2f791a24da2acfc17a9d6\androidx.core.core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [:com.facebook.android.facebook-login-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aafd97823538f2fe9483d5ecf980c994\com.facebook.android.facebook-login-14.1.1\AndroidManifest.xml:21:1-31:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a7b2089b535069e4debac78fb9bca03c\androidx.lifecycle.lifecycle-livedata-core-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.firebase.firebase-auth-interop-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1dee38e997330faf6914a0399647c1d1\com.google.firebase.firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [:androidx.core.core-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\82353ad9dd753c93bc0889bea34c08f5\androidx.core.core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:2:1-11:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8683c981677118de9053f84c43bde28e\com.google.firebase.firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a4a94340f40149ab545afbfe51d38103\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\androidx.customview.customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:21:1-38:12
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8f398d0f548906553e81d9e00365dc40\com.google.firebase.firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:21:1-46:12
+MERGED from [:com.facebook.android.facebook-gamingservices-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1fc479b43aeca88958db18000e4709ec\com.facebook.android.facebook-gamingservices-14.1.1\AndroidManifest.xml:21:1-31:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f08be9e4c966c29f9915c37660e54c4\com.google.android.gms.play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:facebook-android-wrapper-7.17.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\9e4987961273751ce49e4ede0387a8dd\facebook-android-wrapper-7.17.2\AndroidManifest.xml:21:1-30:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2ccafbbdc7c6712aaa397bdb6c0edcd1\androidx.lifecycle.lifecycle-viewmodel-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.fragment.fragment-1.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d4c3628c2b0ad049ba168a90fa3bde70\androidx.fragment.fragment-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:17:1-55:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.firebase.firebase-auth-unity-6.4.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\95795b6e392b50b859f2331a3e5570ec\com.google.firebase.firebase-auth-unity-6.4.0\AndroidManifest.xml:3:1-8:12
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\be0f08ddbc7b2ceb9beb29e6b731c207\androidx.legacy.legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:17:1-46:12
+MERGED from [:androidx.activity.activity-1.2.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\341ded8a5f12040448922cfc09d64f27\androidx.activity.activity-1.2.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-104
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:105-151
+	android:versionCode
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:152-192
+supports-screens
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-18:40
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-120:19
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-120:19
+MERGED from [:facebook-android-wrapper-14.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a126eb42ade91119296a44a144c70c50\facebook-android-wrapper-14.1.0\AndroidManifest.xml:28:5-20
+MERGED from [:facebook-android-wrapper-14.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a126eb42ade91119296a44a144c70c50\facebook-android-wrapper-14.1.0\AndroidManifest.xml:28:5-20
+MERGED from [:common:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:9:5-10:19
+MERGED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:6:3-8:17
+MERGED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:6:3-8:17
+MERGED from [:com.facebook.android.facebook-share-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a1cf4316d482bb62ff605f3eb5338401\com.facebook.android.facebook-share-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-share-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a1cf4316d482bb62ff605f3eb5338401\com.facebook.android.facebook-share-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [:com.google.firebase.firebase-analytics-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\16e35b43c133c122b5b652a39c7433b3\com.google.firebase.firebase-analytics-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\16e35b43c133c122b5b652a39c7433b3\com.google.firebase.firebase-analytics-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\3d777e49dc2bc59447e4e10eedea4e48\com.google.android.gms.play-services-measurement-sdk-17.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\3d777e49dc2bc59447e4e10eedea4e48\com.google.android.gms.play-services-measurement-sdk-17.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\dc05f08fc7e05e726885e5a0119b0621\com.google.android.gms.play-services-measurement-base-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\dc05f08fc7e05e726885e5a0119b0621\com.google.android.gms.play-services-measurement-base-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [:com.facebook.android.facebook-applinks-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ea2ada1c1056467f38a367cdce919fbc\com.facebook.android.facebook-applinks-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-applinks-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ea2ada1c1056467f38a367cdce919fbc\com.facebook.android.facebook-applinks-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\346d5a4de9de9f191c81a5b0fc989c75\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\346d5a4de9de9f191c81a5b0fc989c75\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:com.facebook.android.facebook-bolts-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\669314cf07869054ef636941b9243ee4\com.facebook.android.facebook-bolts-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-bolts-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\669314cf07869054ef636941b9243ee4\com.facebook.android.facebook-bolts-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:26:5-34:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:26:5-34:19
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [:com.facebook.android.facebook-login-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aafd97823538f2fe9483d5ecf980c994\com.facebook.android.facebook-login-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-login-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aafd97823538f2fe9483d5ecf980c994\com.facebook.android.facebook-login-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.google.firebase.firebase-auth-interop-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1dee38e997330faf6914a0399647c1d1\com.google.firebase.firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-auth-interop-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1dee38e997330faf6914a0399647c1d1\com.google.firebase.firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [:androidx.core.core-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\82353ad9dd753c93bc0889bea34c08f5\androidx.core.core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\82353ad9dd753c93bc0889bea34c08f5\androidx.core.core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:7:5-9:19
+MERGED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:7:5-9:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8683c981677118de9053f84c43bde28e\com.google.firebase.firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8683c981677118de9053f84c43bde28e\com.google.firebase.firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a4a94340f40149ab545afbfe51d38103\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a4a94340f40149ab545afbfe51d38103\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:26:3-37:17
+MERGED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:26:3-37:17
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8f398d0f548906553e81d9e00365dc40\com.google.firebase.firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8f398d0f548906553e81d9e00365dc40\com.google.firebase.firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:24:3-45:17
+MERGED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:24:3-45:17
+MERGED from [:com.facebook.android.facebook-gamingservices-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1fc479b43aeca88958db18000e4709ec\com.facebook.android.facebook-gamingservices-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-gamingservices-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1fc479b43aeca88958db18000e4709ec\com.facebook.android.facebook-gamingservices-14.1.1\AndroidManifest.xml:28:5-29:19
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f08be9e4c966c29f9915c37660e54c4\com.google.android.gms.play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f08be9e4c966c29f9915c37660e54c4\com.google.android.gms.play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:facebook-android-wrapper-7.17.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\9e4987961273751ce49e4ede0387a8dd\facebook-android-wrapper-7.17.2\AndroidManifest.xml:28:5-20
+MERGED from [:facebook-android-wrapper-7.17.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\9e4987961273751ce49e4ede0387a8dd\facebook-android-wrapper-7.17.2\AndroidManifest.xml:28:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:30:5-44:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:9-41
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\82353ad9dd753c93bc0889bea34c08f5\androidx.core.core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:com.facebook.android.facebook-share-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a1cf4316d482bb62ff605f3eb5338401\com.facebook.android.facebook-share-14.1.1\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+	android:theme
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:9-50
+	android:usesCleartextTraffic
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:9-44
+uses-sdk
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:facebook-android-wrapper-14.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a126eb42ade91119296a44a144c70c50\facebook-android-wrapper-14.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-wrapper-14.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a126eb42ade91119296a44a144c70c50\facebook-android-wrapper-14.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:common:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:7:5-43
+MERGED from [:common:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c311749ec192028f6df6410475919636\common\AndroidManifest.xml:7:5-43
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f308724af976ef7dca5ec41cddc870c3\androidx.savedstate.savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f308724af976ef7dca5ec41cddc870c3\androidx.savedstate.savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\androidx.vectordrawable.vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\androidx.vectordrawable.vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:3:3-72
+MERGED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:3:3-72
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.facebook.android.facebook-share-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a1cf4316d482bb62ff605f3eb5338401\com.facebook.android.facebook-share-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-share-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a1cf4316d482bb62ff605f3eb5338401\com.facebook.android.facebook-share-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d65cb7c8efed3ac0d87582c278bb8c7e\androidx.browser.browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d65cb7c8efed3ac0d87582c278bb8c7e\androidx.browser.browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\78f6730734116366c52cd0ef97f58aaf\androidx.lifecycle.lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\78f6730734116366c52cd0ef97f58aaf\androidx.lifecycle.lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-analytics-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\16e35b43c133c122b5b652a39c7433b3\com.google.firebase.firebase-analytics-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\16e35b43c133c122b5b652a39c7433b3\com.google.firebase.firebase-analytics-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\23f12b0a995277db82a9d4b860245889\androidx.appcompat.appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\23f12b0a995277db82a9d4b860245889\androidx.appcompat.appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\androidx.vectordrawable.vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\androidx.vectordrawable.vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\3d777e49dc2bc59447e4e10eedea4e48\com.google.android.gms.play-services-measurement-sdk-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\3d777e49dc2bc59447e4e10eedea4e48\com.google.android.gms.play-services-measurement-sdk-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\dc05f08fc7e05e726885e5a0119b0621\com.google.android.gms.play-services-measurement-base-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\dc05f08fc7e05e726885e5a0119b0621\com.google.android.gms.play-services-measurement-base-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\702974eead929cb167f132efe0eabb04\androidx.media.media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\702974eead929cb167f132efe0eabb04\androidx.media.media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:21:5-44
+MERGED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:21:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\androidx.versionedparcelable.versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.facebook.android.facebook-applinks-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ea2ada1c1056467f38a367cdce919fbc\com.facebook.android.facebook-applinks-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-applinks-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ea2ada1c1056467f38a367cdce919fbc\com.facebook.android.facebook-applinks-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\androidx.cardview.cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\ffb6a67829fa40d4c0493cb7e147e8f7\androidx.cardview.cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:unityandroidpermissions:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\99cd4938695955e76a15f63d7f33b533\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\99cd4938695955e76a15f63d7f33b533\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:com.google.firebase.firebase-app-unity-6.4.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\6b84a11812324d0c169eab2fcda1230a\com.google.firebase.firebase-app-unity-6.4.0\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-6.4.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\6b84a11812324d0c169eab2fcda1230a\com.google.firebase.firebase-app-unity-6.4.0\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\346d5a4de9de9f191c81a5b0fc989c75\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\346d5a4de9de9f191c81a5b0fc989c75\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.facebook.android.facebook-bolts-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\669314cf07869054ef636941b9243ee4\com.facebook.android.facebook-bolts-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-bolts-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\669314cf07869054ef636941b9243ee4\com.facebook.android.facebook-bolts-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:unitygar:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\58f600055dcf429af6d4b03d816c2e14\unitygar\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\58f600055dcf429af6d4b03d816c2e14\unitygar\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8940c89a08b10379ecdcb072cecdc947\arcore_unity\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8940c89a08b10379ecdcb072cecdc947\arcore_unity\AndroidManifest.xml:7:5-9:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\93a5f22968e725a8334b936452039ac6\androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\93a5f22968e725a8334b936452039ac6\androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.annotation.annotation-experimental-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\androidx.annotation.annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\androidx.annotation.annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f209091eb3926c649f0b3346884e478c\androidx.appcompat.appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f209091eb3926c649f0b3346884e478c\androidx.appcompat.appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-ktx-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b99c743a8ea2f791a24da2acfc17a9d6\androidx.core.core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.core.core-ktx-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b99c743a8ea2f791a24da2acfc17a9d6\androidx.core.core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.facebook.android.facebook-login-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aafd97823538f2fe9483d5ecf980c994\com.facebook.android.facebook-login-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-login-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\aafd97823538f2fe9483d5ecf980c994\com.facebook.android.facebook-login-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a7b2089b535069e4debac78fb9bca03c\androidx.lifecycle.lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a7b2089b535069e4debac78fb9bca03c\androidx.lifecycle.lifecycle-livedata-core-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.firebase.firebase-auth-interop-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1dee38e997330faf6914a0399647c1d1\com.google.firebase.firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1dee38e997330faf6914a0399647c1d1\com.google.firebase.firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.core.core-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\82353ad9dd753c93bc0889bea34c08f5\androidx.core.core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.3.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\82353ad9dd753c93bc0889bea34c08f5\androidx.core.core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:6:5-43
+MERGED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:6:5-43
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8683c981677118de9053f84c43bde28e\com.google.firebase.firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-18.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8683c981677118de9053f84c43bde28e\com.google.firebase.firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a4a94340f40149ab545afbfe51d38103\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\a4a94340f40149ab545afbfe51d38103\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:22:3-72
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8f398d0f548906553e81d9e00365dc40\com.google.firebase.firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-iid-interop-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\8f398d0f548906553e81d9e00365dc40\com.google.firebase.firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-gamingservices-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1fc479b43aeca88958db18000e4709ec\com.facebook.android.facebook-gamingservices-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-gamingservices-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1fc479b43aeca88958db18000e4709ec\com.facebook.android.facebook-gamingservices-14.1.1\AndroidManifest.xml:24:5-26:41
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f08be9e4c966c29f9915c37660e54c4\com.google.android.gms.play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f08be9e4c966c29f9915c37660e54c4\com.google.android.gms.play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:facebook-android-wrapper-7.17.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\9e4987961273751ce49e4ede0387a8dd\facebook-android-wrapper-7.17.2\AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-wrapper-7.17.2:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\9e4987961273751ce49e4ede0387a8dd\facebook-android-wrapper-7.17.2\AndroidManifest.xml:24:5-26:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2ccafbbdc7c6712aaa397bdb6c0edcd1\androidx.lifecycle.lifecycle-viewmodel-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2ccafbbdc7c6712aaa397bdb6c0edcd1\androidx.lifecycle.lifecycle-viewmodel-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d4c3628c2b0ad049ba168a90fa3bde70\androidx.fragment.fragment-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.3.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\d4c3628c2b0ad049ba168a90fa3bde70\androidx.fragment.fragment-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-6.4.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\95795b6e392b50b859f2331a3e5570ec\com.google.firebase.firebase-auth-unity-6.4.0\AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-unity-6.4.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\95795b6e392b50b859f2331a3e5570ec\com.google.firebase.firebase-auth-unity-6.4.0\AndroidManifest.xml:7:3-41
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\be0f08ddbc7b2ceb9beb29e6b731c207\androidx.legacy.legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\be0f08ddbc7b2ceb9beb29e6b731c207\androidx.legacy.legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:26:5-28:41
+MERGED from [:androidx.activity.activity-1.2.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\341ded8a5f12040448922cfc09d64f27\androidx.activity.activity-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-1.2.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\341ded8a5f12040448922cfc09d64f27\androidx.activity.activity-1.2.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:19-51
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:22:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:22:5-67
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-86
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:22-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:22-78
+uses-feature#android.hardware.location.gps
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.location
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-68:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-194
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-67:40
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:17-57
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-72:86
+	android:configChanges
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-170
+	android:theme
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-83
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-67
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:9-76:86
+	android:configChanges
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-170
+	android:theme
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-83
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-69
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:9-79:39
+	android:exported
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:78:13-69
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:9-82:39
+	android:exported
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:82:13-36
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:81:13-73
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:83:9-82
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:83:19-79
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:84:9-86
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:84:19-83
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:85:9-84
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:85:19-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:87:9-89:49
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:89:13-46
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:88:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:90:9-92:36
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:92:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:91:13-68
+meta-data#com.facebook.sdk.AdvertiserIDCollectionEnabled
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:93:9-95:36
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:95:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:94:13-74
+provider#com.facebook.FacebookContentProvider
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:97:9-100:39
+	android:authorities
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:99:13-90
+	android:exported
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:100:13-36
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:98:13-64
+meta-data#unity.arcore-enable
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:102:9-104:36
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:104:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:103:13-47
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:105:9-107:36
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:107:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:106:13-61
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:108:9-110:33
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:110:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:109:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:111:9-113:36
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:113:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:112:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:114:9-116:36
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:116:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:115:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:117:9-119:37
+	android:value
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:119:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\unity_project\CatchHanuri\Project_HSKoreanCow_Android\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:118:13-56
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:7:5-199
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:7:80-147
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:7:148-172
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:7:173-196
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\db475a239d4b7c07900ec0deb1804a0c\com.google.firebase.firebase-common-19.0.0\AndroidManifest.xml:7:15-79
+uses-permission#com.android.vending.BILLING
+ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [:billing-4.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\b81ff7d1ee2a78392f1d1cb4089981c8\billing-4.0.0\AndroidManifest.xml:18:13-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\845bd68b1ba204c84e676f8e37ae39ed\com.google.android.gms.play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\cf804e0bfedb1dab639e96845377415d\com.android.installreferrer.installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:32:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:30:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:34:13-36:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-impl-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\521aaf668fbb66e5c66772bfd0a82abd\com.google.android.gms.play-services-measurement-impl-17.1.0\AndroidManifest.xml:35:25-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:33:9-39:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:27:9-33:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:27:9-33:19
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\732c4709ce545441b8e9a22a4687e731\com.google.firebase.firebase-auth-19.0.0\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-api-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\17185cf742a8267eb78d7c0bb3e9f167\com.google.android.gms.play-services-measurement-api-17.1.0\AndroidManifest.xml:31:17-139
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\07044138e4e874d0d569dd1deb5492bd\com.google.android.gms.play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-19.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\37387f4d4435cc022558453e36c0721a\com.google.firebase.firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:8:9-81
+	android:value
+		ADDED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:8:54-78
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:8:20-53
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:10:5-86
+	android:required
+		ADDED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:10:61-84
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\1d469ee2681b97a70671e5953af2d1b4\google_ar_required\AndroidManifest.xml:10:19-60
+queries
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:23:3-25:13
+package#com.facebook.katana
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:24:5-51
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:24:14-48
+activity#com.facebook.FacebookActivity
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:27:5-197
+	android:configChanges
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:27:60-143
+	android:theme
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:27:144-194
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:27:15-59
+activity#com.facebook.CustomTabMainActivity
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:28:15-64
+activity#com.facebook.CustomTabActivity
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:29:5-36:16
+	tools:node
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:29:85-103
+	android:exported
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:29:61-84
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:29:15-60
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.Interfo.hanurigo2019+data:scheme:fbconnect
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:30:7-35:23
+action#android.intent.action.VIEW
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:31:17-58
+category#android.intent.category.DEFAULT
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:32:9-68
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:32:19-65
+category#android.intent.category.BROWSABLE
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:33:9-70
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:33:19-67
+data
+ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:34:9-88
+	android:host
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:34:15-58
+	android:scheme
+		ADDED from [:com.facebook.android.facebook-common-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\5f566d4a335889f1b167e4779fbad5d3\com.facebook.android.facebook-common-14.1.1\AndroidManifest.xml:34:59-85
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:23:3-77
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:23:20-74
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:34:5-168
+	android:authorities
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:34:73-140
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:34:141-165
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:34:15-72
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:35:5-39:16
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:35:89-113
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:35:15-88
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:36:7-38:23
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:37:9-87
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:37:17-84
+receiver#com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:40:5-44:16
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:40:121-145
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:40:15-120
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:41:7-43:23
+action#com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:42:9-95
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-14.1.1:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\2111f6384800be5b88f3c5ccbadb1efd\com.facebook.android.facebook-core-14.1.1\AndroidManifest.xml:42:17-92
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.1.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\97c392bbf88c2d26e97ffd1b56b38d4a\com.google.android.gms.play-services-measurement-17.1.0\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\cephu\.gradle\caches\transforms-2\files-2.1\4f53d379a6d015d3fa179b4515037a3e\arcore_client\AndroidManifest.xml:38:13-62
